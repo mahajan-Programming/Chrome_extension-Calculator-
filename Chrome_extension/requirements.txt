@@ -1,0 +1,7 @@
+19*19 px images
+128*128 px img
+screenshot of extension 640* __ px 
+logo for extension in "images folder" of 150 * 150 px size
+
+1. mainfest.json
+2. popup.html, css , js
